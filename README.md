@@ -16,7 +16,27 @@ Confusion matrix =
 #### Resnet-18:
 Accuracy = 
 Confusin matrix = 
+|                 | Infected(Pred) | Normal(Pred)  |
+| :---            |     :---:      |          ---: |
+|Infected(Actual) |             |             |
+| Normal(Actual)  |              |            |
 
+### Task 1: Transfer Learning while Freezing the Feature Layers
+#### VGG-16:
+Accuracy = 
+Confusin matrix = 
+|                 | Infected(Pred) | Normal(Pred)  |
+| :---            |     :---:      |          ---: |
+|Infected(Actual) |             |             |
+| Normal(Actual)  |               |            |
+
+#### Resnet-18:
+Accuracy = 
+Confusin matrix = 
+|                 | Infected(Pred) | Normal(Pred)  |
+| :---            |     :---:      |          ---: |
+|Infected(Actual) |             |             |
+| Normal(Actual)  |               |            |
 
 ## Dataset
 https://drive.google.com/file/d/1-HQQciKYfwAO3oH7ci6zhg45DduvkpnK/view
