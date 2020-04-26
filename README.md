@@ -27,24 +27,20 @@ Accuracy = 97%
 Confusin matrix = 
 |                 | Infected(Pred) | Normal(Pred)  |
 | :---            |     :---:      |          ---: |
-|Infected(Actual) |             |             |
-| Normal(Actual)  |               |            |
+|Infected(Actual) |      582       |   33          |
+| Normal(Actual)  |        10       |   875         |
 
 #### Resnet-18:
-Accuracy = 
+Accuracy = 96%
 Confusin matrix = 
 |                 | Infected(Pred) | Normal(Pred)  |
 | :---            |     :---:      |          ---: |
-|Infected(Actual) |             |             |
-| Normal(Actual)  |               |            |
+|Infected(Actual) |      592       |     23        |
+| Normal(Actual)  |       30        |     855       |
 
 ## Dataset
 https://drive.google.com/file/d/1-HQQciKYfwAO3oH7ci6zhg45DduvkpnK/view
 
 ## Weights
-vgg16_FC_Only.pth
-https://drive.google.com/file/d/1yhoF9GAPpArNMuz7mUAMLQ0ticnbqMLW/view?usp=sharing
-
-res18_FC_Only.pth
-https://drive.google.com/file/d/1vGlZxNX5tiCh79GBTXjdFwd5gTiUy8bU/view?usp=sharing
+https://github.com/SobanMahmood/MSCS16012_COVID19_DLSpring2020/tree/master/weights
 
