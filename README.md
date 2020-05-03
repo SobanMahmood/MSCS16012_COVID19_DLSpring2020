@@ -39,7 +39,10 @@ Confusin matrix =
 | Normal(Actual)  |       30        |     855       |
 
 ## Dataset
+###Assignment Part 1:
 https://drive.google.com/file/d/1-HQQciKYfwAO3oH7ci6zhg45DduvkpnK/view
+###Assignment Part 2:
+https://drive.google.com/file/d/1eytbwaLQBv12psV8I-aMkIli9N3bf8nO/view
 
 ## Weights
 https://github.com/SobanMahmood/MSCS16012_COVID19_DLSpring2020/tree/master/weights
